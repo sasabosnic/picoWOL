@@ -1,4 +1,4 @@
-# picoWOL.py
+# picoWOL.py WIP.NOT WORKING!!! USE IT AT YOUR OWN RISK
 
 picoWOL.py is a Python script that allows you to remotely wake up, shut down, or put to sleep a target PC using a Raspberry Pi Pico and GPIO input pins.
 
